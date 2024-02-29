@@ -7,7 +7,7 @@ dpb() {
 cd /bin
 if [ -e sudo ];then
 cd ~
-git clone https://github.com/rooted-cyber/anasty-bot
+git clone https://github.com/Khanomix/anasty-bot
 cd anas*
 printf "\n Deploying your bot....\n"
 sudo bash st.sh
